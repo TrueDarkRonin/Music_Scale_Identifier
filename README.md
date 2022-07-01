@@ -7,4 +7,4 @@ As aurally a flat and sharp can be the same note some musician and producers fin
 Hence this provides a set of notes disregarding flats.
 
 ### Scripts:
-[ScaleFinder.pyw](ScaleFinder.pyw)
+[scale_finder.pyw](scale_finder.pyw)
